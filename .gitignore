@@ -1,0 +1,19 @@
+# 看板数据（包含股票评分、持仓信息）
+futu_watchlist.json
+futu_group_scores.json
+futu_stocks_for_scan.json
+groups.json
+scan_results.json
+scan_results_incr.json
+stock_scores.json
+stock_industry.json
+
+# 历史快照
+history/
+
+# 本地开发文件
+dashboard.html
+dashboard_optimized.html
+*.pyc
+__pycache__/
+*.log
